@@ -13,5 +13,8 @@ The code includes:
 5. map.h: the information of the map data
 
 # The simulated result:
+Based on the map and sensor data, the filter has successful passed the test within time:
+
+![p_result.png](https://github.com/wenkairen/CarND-Kidnapped-Vehicle/master/p_result.png)
 
 
